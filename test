@@ -1,0 +1,3 @@
+mkdir my-github-project
+cd my-github-project
+echo "Hello, GitHub!" > README.md
