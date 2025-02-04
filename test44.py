@@ -37,3 +37,5 @@ CMD ["/bin/bash"]
 #kubectl
 
 #kubectl
+
+#kubectl
