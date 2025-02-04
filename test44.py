@@ -35,3 +35,5 @@ WORKDIR /root
 CMD ["/bin/bash"]
 
 #kubectl
+
+#kubectl
