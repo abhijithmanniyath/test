@@ -34,3 +34,4 @@ WORKDIR /root
 # Default command
 CMD ["/bin/bash"]
 
+#kubectl
