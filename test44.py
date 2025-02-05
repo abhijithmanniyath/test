@@ -39,3 +39,5 @@ CMD ["/bin/bash"]
 #kubectl
 
 #kubectl
+
+#pytghon
